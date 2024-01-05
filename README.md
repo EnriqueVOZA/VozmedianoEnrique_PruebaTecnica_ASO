@@ -1,2 +1,3 @@
-![aso validaciones](https://github.com/EnriqueVOZA/VozmedianoEnrique_PruebaTecnica_ASO/assets/92337660/298a481c-1ba7-4d18-9513-125e9f4e66c5)
-![diapo2](https://github.com/EnriqueVOZA/VozmedianoEnrique_PruebaTecnica_ASO/assets/92337660/252a085e-302c-44ff-888a-cb2a042fd796)
+
+![diapo1](https://github.com/EnriqueVOZA/VozmedianoEnrique_PruebaTecnica_ASO/assets/92337660/4f973a68-6d0e-4b17-a74d-c090fb8ad991)
+![diapo2](https://github.com/EnriqueVOZA/VozmedianoEnrique_PruebaTecnica_ASO/assets/92337660/14521d74-2362-4e5b-8328-351d2522ddc4)
