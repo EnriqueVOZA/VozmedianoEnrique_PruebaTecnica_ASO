@@ -35,10 +35,11 @@ La API recibe un JSON con detalles específicos sobre la simulación de contrata
 }
 
 
-- *Validaciones Realizadas:
-    -Tipo de Oferta (details.offerType): Está validado que sea el mismo en la entrada y la respuesta, asegurando que solo ingresen mayúsculas.
+### Validaciones Realizadas:
 
-    -Cantidad Máxima Permitida (details.limitAmount.amount): Se ha verificado que no sea nula.
+-Tipo de Oferta (details.offerType): Está validado que sea el mismo en la entrada y la respuesta, asegurando que solo ingresen mayúsculas.
+
+-Cantidad Máxima Permitida (details.limitAmount.amount): Se ha verificado que no sea nula.
 
     -Moneda (details.limitAmount.currency): Confirmado que no sea nula ni vacía.
 
