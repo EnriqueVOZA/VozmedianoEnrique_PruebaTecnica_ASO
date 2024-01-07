@@ -29,7 +29,7 @@ La API recibe un JSON con detalles específicos sobre la simulación de contrata
 - **Subproducto (`details.product.subproduct.id`):** *Se ha asegurado de que solo contenga de 0 a 2 caracteres.*
 
 
-```json
+json
 {
   "details": {
     "offerType": "CARD_HOLDER",
@@ -44,7 +44,7 @@ La API recibe un JSON con detalles específicos sobre la simulación de contrata
       }
     }
   }
-}```
+}
 
 
 
