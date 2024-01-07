@@ -1,6 +1,6 @@
 # README - Implementación Exitosa de la API REST para Simulaciones de Contrataciones de Tarjetas de Crédito
 
-¡Bienvenido al proyecto de implementación de la API REST para simulaciones de contrataciones de tarjetas de crédito! Aquí encontrarás una guía detallada sobre cómo abordar y resolver este desafío, combinando conocimientos en Java, ASO, APX, Docker y Postman.
+¡Bienvenido al proyecto de implementación de la API REST para simulaciones de contrataciones de tarjetas de crédito! Aquí encontrarás una guía detallada sobre cómo abordar y resolver este desafío, combinando conocimientos en Java, ASO, Docker y Postman.
 
 ## Objetivo
 
