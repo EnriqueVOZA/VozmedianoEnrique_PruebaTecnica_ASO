@@ -37,15 +37,15 @@ La API recibe un JSON con detalles específicos sobre la simulación de contrata
 
 ### Validaciones Realizadas:
 
--Tipo de Oferta (details.offerType): Está validado que sea el mismo en la entrada y la respuesta, asegurando que solo ingresen mayúsculas.
+Tipo de Oferta (details.offerType): Está validado que sea el mismo en la entrada y la respuesta, asegurando que solo ingresen mayúsculas.
 
--Cantidad Máxima Permitida (details.limitAmount.amount): Se ha verificado que no sea nula.
+Cantidad Máxima Permitida (details.limitAmount.amount): Se ha verificado que no sea nula.
 
-    -Moneda (details.limitAmount.currency): Confirmado que no sea nula ni vacía.
+    Moneda (details.limitAmount.currency): Confirmado que no sea nula ni vacía.
 
-    -Identificador del Producto (details.product.id): Validado mediante un regex que sea igual a "TDC".
+    Identificador del Producto (details.product.id): Validado mediante un regex que sea igual a "TDC".
 
-    -Subproducto (details.product.subproduct.id): Se ha asegurado de que solo contenga de 0 a 2 caracteres.
+    Subproducto (details.product.subproduct.id): Se ha asegurado de que solo contenga de 0 a 2 caracteres.
 
 
 ![diapo1](https://github.com/EnriqueVOZA/VozmedianoEnrique_PruebaTecnica_ASO/assets/92337660/4f973a68-6d0e-4b17-a74d-c090fb8ad991)
